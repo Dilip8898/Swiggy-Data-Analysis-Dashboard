@@ -1,4 +1,4 @@
-<img width="1373" height="776" alt="image" src="https://github.com/user-attachments/assets/3a03c714-cd20-4fee-acf7-5e9da7d5fa90" /># Swiggy-Data-Analysis-Dashboard
+# 📊 Swiggy Data Analysis Dashboard (Excel)
 This project showcases an interactive data analysis dashboard built in Microsoft Excel using Swiggy food delivery data. The goal of this project is to analyze sales performance, customer behavior, and regional trends to support data-driven business decisions.
 
 The dashboard highlights key performance indicators such as Total Sales (₹53.01M), Total Orders (197.43K), Average Order Value (₹268.51), Average Rating (4.34), and Rating Count (5.59M). It provides insights into monthly, weekly, and daily sales trends, helping identify peak order periods and demand patterns.
