@@ -7,7 +7,7 @@ Sales performance is further analyzed by food type (Veg vs Non-Veg), state-wise 
 
 Interactive slicers for months, categories, and restaurant names allow users to dynamically filter and explore the data. The project demonstrates effective use of Pivot Tables, Pivot Charts, Excel Maps, and Conditional Formatting to convert raw data into actionable insights.
 
-![Uploading image.png…]
+![Swiggy Data Analysis](https://github.com/user-attachments/assets/46cc5f3d-7cd3-4974-b84c-d7d8e5e900a7)
 
 
 ## 🛠 Tools Used
