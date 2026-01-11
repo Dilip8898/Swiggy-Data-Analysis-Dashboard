@@ -16,3 +16,4 @@ Interactive slicers for months, categories, and restaurant names allow users to 
 
 ## 🎯 Objective
 To demonstrate how Excel can be used as a powerful business intelligence tool for analyzing large datasets and building visually appealing dashboards without coding.
+![Uploading image.png…]()
