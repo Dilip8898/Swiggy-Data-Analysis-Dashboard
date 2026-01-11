@@ -7,12 +7,12 @@ Sales performance is further analyzed by food type (Veg vs Non-Veg), state-wise 
 
 Interactive slicers for months, categories, and restaurant names allow users to dynamically filter and explore the data. The project demonstrates effective use of Pivot Tables, Pivot Charts, Excel Maps, and Conditional Formatting to convert raw data into actionable insights.
 
-# 🛠 Tools Used
+## 🛠 Tools Used
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
 - Slicers & Filters
 - Excel Map Visualization
 - Data Cleaning & Transformation
 
-# 🎯 Objective
+## 🎯 Objective
 To demonstrate how Excel can be used as a powerful business intelligence tool for analyzing large datasets and building visually appealing dashboards without coding.
